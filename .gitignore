@@ -18,4 +18,4 @@ build/
 .env
 
 # Editor settings
-.vscode/
+.vscode
